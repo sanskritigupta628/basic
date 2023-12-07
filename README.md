@@ -1,3 +1,3 @@
 # basic
-this is may first repo.<br>
+this is my first repo.<br>
 Author-Sanskriti Gupta
